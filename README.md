@@ -17,7 +17,7 @@ This repository (will) contain the files of mh future Linux Distro: KorOS.
 KorOS is an independent Linux Distribuition* (not based on another Distro) and it is gonna be made in mostly Rust but with some other languages sneaked in too.
 
 > [!NOTE]
-> *Even tho it's independent you might see some similarities frok other distros as ill take a bit of inspiration from them.
+> *Even tho it's independent you might see some similarities of other distros as ill take a bit of inspiration from them.
 
 ## What is in Concepts/?
 `Concepts/` is a temporary directory containing tests of the languages: Rust, Python, Shell scripting, C, C++, Perl, Assembly (ARM64 for now), JavaScript, HTML and CSS
