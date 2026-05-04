@@ -1,5 +1,5 @@
 <h1 align="center">KorOS</h1>
-<p align="center">The best OS you'll see</h2>
+<p align="center">Ny own Linux Distro</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kor-OS-blueviolet?style=plastic">
@@ -12,15 +12,34 @@
   </a>
 </p>
 
-<h2 align="center">What is this?</h2>
-<p align="center">This is the repo for my future OS, definetely not starting soon, but i'll start making the repo</p>
+## What is this repository?
+This repository (will) contain the files of mh future Linux Distro: KorOS.
+KorOS is an independent Linux Distribuition* (not based on another Distro) and it is gonna be made in mostly Rust but with some other languages sneaked in too.
 
-<h2 align="center">Why?</h2>
-<p align="center">Why not? >:D</p>
+[![NOTE]]
+> *Even tho it's independent you might see some similarities frok other distros as ill take a bit of inspiration from them.
 
-<h2 align="center">Star History</h2>
+## What is in Concepts/?
+`Concepts/` is a temporary directory containing tests of the languages: Rust, Python, Shell scripting, C, C++, Perl, Assembly (ARM64 for now), JavaScript, HTML and CSS
 
-<a href="https://www.star-history.com/?repos=nixxy-lv/temp-read&type=date&legend=top-left">
+## What is in Logs/?
+`Logs/` contains my progress in the making of the OS:
+• `ACSH.md` | conatains my biggest acconplishments
+• `CHANGELOG.md` | containes a description of each update and upcoming features
+• `DEV_NOTES.md` | listed in the `.gitignore`, this contains my notes to keep track on what ill do.
+
+### Where are the other directories?
+I don't have my own PC yet so i can't start the full developement yet but i'll start when ill get it.
+
+## Where do i download it?
+As i said the full developement hasn't started yet, when i will, ill make a website containg install, install guide and documentation
+
+### Will the Website come out with the OS?
+No, the website will come out before the OS, that's the only real progress i can currently make.
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=nixxy-lv/KorOS&type=date&legend=top-left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=nixxy-lv/KorOS&type=date&theme=dark&legend=top-left" />
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=nixxy-lv/KorOS&type=date&legend=top-left" />
