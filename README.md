@@ -12,6 +12,9 @@
   </a>
 </p>
 
+### Check out the KorOS website!
+You can find the website <a href="https://nixxy-lv.github.io/KorOS-Web">Here!</a>
+
 ## What is this repository?
 This repository (will) contain the files of mh future Linux Distro: KorOS.
 KorOS is an independent Linux Distribuition* (not based on another Distro) and it is gonna be made in mostly Rust but with some other languages sneaked in too.
