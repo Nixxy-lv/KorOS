@@ -1,5 +1,5 @@
 <h1 align="center">KorOS</h1>
-<p align="center">Ny own Linux Distro</h2>
+<p align="center">My own Linux Distro</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kor-OS-blueviolet?style=plastic">
