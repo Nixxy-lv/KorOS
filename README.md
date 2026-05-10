@@ -34,8 +34,12 @@ KorOS is an independent Linux Distribuition* (not based on another Distro) and i
 ### Where are the other directories?
 I don't have my own PC yet so i can't start the full developement yet but i'll start when ill get it.
 
+## What do the branches contain?
+• `master` | main and stable branch, where the tested releases are.<br>
+• `nightly` | contains early and less tested releases, expect bugs.<br>
+
 ## Where do i download it?
-As i said the full developement hasn't started yet, when i will, ill make a website containg install, install guide and documentation
+As i said the full developement hasn't started yet, when i will, ill make a webpage containg the installs for KorOS and KorOS-Nightly, install guide and documentation
 
 ## Star History
 
