@@ -37,9 +37,6 @@ I don't have my own PC yet so i can't start the full developement yet but i'll s
 ## Where do i download it?
 As i said the full developement hasn't started yet, when i will, ill make a website containg install, install guide and documentation
 
-### Will the Website come out with the OS?
-No, the website will come out before the OS, that's the only real progress i can currently make.
-
 ## Star History
 
 <a href="https://www.star-history.com/?repos=nixxy-lv/KorOS&type=date&legend=top-left">
