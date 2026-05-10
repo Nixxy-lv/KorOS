@@ -26,10 +26,10 @@ KorOS is an independent Linux Distribuition* (not based on another Distro) and i
 `Concepts/` is a temporary directory containing tests of the languages: Rust, Python, Shell scripting, C, C++, Perl, Assembly (ARM64 for now), JavaScript, HTML and CSS
 
 ## What is in Logs/?
-`Logs/` contains my progress in the making of the OS:
-• `ACSH.md` | conatains my biggest acconplishments
-• `CHANGELOG.md` | containes a description of each update and upcoming features
-• `DEV_NOTES.md` | listed in the `.gitignore`, this contains my notes to keep track on what ill do.
+`Logs/` contains my progress in the making of the OS:<br>
+• `ACSH.md` | conatains my biggest acconplishments<br>
+• `CHANGELOG.md` | containes a description of each update and upcoming features<br>
+• `DEV_NOTES.md` | listed in the `.gitignore`, this contains my notes to keep track on what ill do.<br>
 
 ### Where are the other directories?
 I don't have my own PC yet so i can't start the full developement yet but i'll start when ill get it.
