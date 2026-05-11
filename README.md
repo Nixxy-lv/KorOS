@@ -22,8 +22,11 @@ KorOS is an independent Linux Distribuition* (not based on another Distro) and i
 > [!NOTE]
 > *Even tho it's independent you might see some similarities to other distros as ill take a bit of inspiration from them.
 
-## What is in Concepts/?
-`Concepts/` is a temporary directory containing tests of the languages: Rust, Python, Shell scripting, C, C++, Perl, Assembly (ARM64 for now), JavaScript, HTML and CSS
+## What is in Tests/?
+`Tests/` is a temporary directory containing tests of the languages: Rust, Python, Shell scripting, C, C++, Perl, Assembly (ARM64 for now), JavaScript, HTML and CSS
+
+## What is in ARM_Pu_OS/?
+Project i made while not having a PC yet, very simple project to experiment with some stuff. The "OS" does the most basic stuff: boot, print text... etc. it is nothing big and not a serious project.
 
 ## What is in Logs/?
 `Logs/` contains my progress in the making of the OS:<br>
