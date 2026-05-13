@@ -16,33 +16,33 @@
 You can find the website <a href="https://nixxy-lv.github.io/KorOS-Web">Here!</a>
 
 ## What is this repository?
-This repository (will) contain the files of mh future Linux Distro: KorOS.
+This repository (will) contain the files of my future Linux Distro: KorOS.
 KorOS is an independent Linux Distribuition* (not based on another Distro) and it is gonna be made in mostly Rust but with some other languages sneaked in too.
 
 > [!NOTE]
-> *Even though it's independent you might see some similarities to other distros as ill take a bit of inspiration from them.
+> *Even though it's independent you might see some similarities to other distros as i'll take a bit of inspiration from them.
 
 ## What is in Tests/?
-`Tests/` is a temporary directory containing tests of the languages: Rust, Python, Shell scripting, C, C++, Perl, Assembly (ARM64 for now), JavaScript, HTML and CSS
+`Tests/` is a temporary directory containing tests of the languages: Rust, Python, Shell script, C, C++, Perl, Assembly (ARM64 for now) and JavaScript
 
 ## What is in ARM_Pu_OS/?
-Project i made while not having a PC yet, very simple project to experiment with some stuff. The "OS" does the most basic stuff: boot, print text... etc. it is nothing big and not a serious project.
+ARM64_Print-util_OS (or ARM_Pu_OS) is a project i made while not having a PC yet, very simple project to experiment with some stuff. The "OS" does the most basic stuff: boot, print text... etc. it is nothing big and not a serious project.
 
 ## What is in Logs/?
 `Logs/` contains my progress in the making of the OS:<br>
 • `ACSH.md` | conatains my biggest acconplishments<br>
 • `CHANGELOG.md` | containes a description of each update and upcoming features<br>
-• `DEV_NOTES.md` | listed in the `.gitignore`, this contains my notes to keep track on what ill do.<br>
+• `DEV_NOTES.md` | listed in the `.gitignore`, this contains my notes to keep track on what i'll do.<br>
 
 ### Where are the other directories?
-I don't have my own PC yet so i can't start the full developement yet but i'll start when ill get it.
+I don't have my own PC yet so i can't start the full developement yet but i'll start when i'll get it.
 
 ## What do the branches contain?
 • `master` | main and stable branch, where the tested releases are.<br>
 • `nightly` | contains early and less tested releases, expect bugs.<br>
 
 ## Where do i download it?
-As i said the full developement hasn't started yet, when i will, ill make a webpage containg the installs for KorOS and KorOS-Nightly, install guide and documentation
+As i said the full developement hasn't started yet, when it will, i'll make a webpage containg the installs for KorOS (and KorOS-Nightly in the future)
 
 ## Star History
 
