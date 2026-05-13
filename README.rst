@@ -20,7 +20,7 @@ KorOS is an independent Linux Distribuition* (not based on another Distro) and i
 
 .. note::
 
-   *Even tho it's independent you might see some similarities to other distros as ill take a bit of inspiration from them.
+   *Even though it's independent, you might see some similarities to other distros, as I'll take a bit of inspiration from them.*
 
 What is in Tests/?
 ------------------
