@@ -19,6 +19,7 @@ This repository (will) contain the files of mh future Linux Distro: KorOS.
 KorOS is an independent Linux Distribuition* (not based on another Distro) and it is gonna be made in mostly Rust but with some other languages sneaked in too.
 
 .. note::
+
    *Even tho it's independent you might see some similarities to other distros as ill take a bit of inspiration from them.
 
 What is in Tests/?
