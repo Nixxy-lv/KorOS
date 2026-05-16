@@ -1,2 +1,5 @@
 Logs/DEV_NOTES.md
 .README.rst
+src/output/
+*.iso
+*.img
