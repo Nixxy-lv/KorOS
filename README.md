@@ -23,7 +23,7 @@ KorOS is an independent Linux Distribuition* (not based on another Distro) and i
 > *Even though it's independent you might see some similarities to other distros as i'll take a bit of inspiration from them.
 
 ## What is in Tests/?
-`Tests/` is a temporary directory containing tests of the languages: Rust, Python, Shell script, C, C++, Perl, Assembly (ARM64 for now) and JavaScript
+`Tests/` is a temporary directory containing tests of the languages: Rust, Python, Shell script, C, C++, Perl, Assembly (ARM64 for now), JavaScript, HTML and CSS.
 
 ## What is in ARM_Pu_OS/?
 ARM64_Print-util_OS (or ARM_Pu_OS) is a project i made while not having a PC yet, very simple project to experiment with some stuff. The "OS" does the most basic stuff: boot, print text... etc. it is nothing big and not a serious project.
