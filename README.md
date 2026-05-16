@@ -22,6 +22,9 @@ KorOS is an independent Linux Distribuition* (not based on another Distro) and i
 > [!NOTE]
 > *Even though it's independent you might see some similarities to other distros as i'll take a bit of inspiration from them.
 
+## What is in src/?
+`src/` contains all the core files of this distribuition: `buildroot/`, `board/`, `configs`, `external/` and `local.mk`.
+
 ## What is in Tests/?
 `Tests/` is a temporary directory containing tests of the languages: Rust, Python, Shell script, C, C++, Perl, Assembly (ARM64 for now), JavaScript, HTML and CSS.
 
