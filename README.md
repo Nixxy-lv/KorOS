@@ -51,7 +51,6 @@ ARM64_HelloWorldprint_OS (or ARM_HWp_OS) is a project i made while not having a 
 
 ## What is in docs/?
 `docs/` contains my progress in the making of the OS:<br>
-• `ACSH.md` | conatains my biggest acconplishments<br>
 • `CHANGELOG-dpcr.md` | containes a description of each update and upcoming features (changelog will be on github releases and my website's install page)<br>
 • `DEV_NOTES.md` | listed in the `.gitignore`, this contains my notes to keep track on what i'll do.<br>
 
