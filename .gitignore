@@ -1,9 +1,12 @@
-Logs/DEV_NOTES.md
+docs/DEV_NOTES.md
 DEV_NOTE.md
+APPLY.txt
 .README.rst
 
 packages/example/
 out/
+iso/
+releases/
 
 *.iso
 *.img

@@ -1,0 +1,1 @@
+KoreOS will be using BusyBox init for now, OpenRC will come in the future.
