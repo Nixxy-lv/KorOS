@@ -25,6 +25,8 @@ while true; do
 
       cd "$HOME"
 
+      echo "1 4 1 7" > /proc/sys/kernel/printk
+
       clear
 
       if [ -x /usr/bin/fastfetch ]; then
