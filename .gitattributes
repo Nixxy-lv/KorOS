@@ -1,3 +1,7 @@
 *.vim linguist-vendored
 *.vimrc linguist-vendored
 *.rb linguist-vendored
+*.rake linguist-vendored
+*.gemspec linguist-vendored
+Gemfile linguist-vendored
+Rakefile linguist-vendored

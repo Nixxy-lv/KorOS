@@ -8,22 +8,25 @@ mount -t devtmpfs none /dev
 echo "Welcome to KoreOS!"
 
 while true; do
-    echo "Starting Emergency shell..."
+    echo "Starting BusyBox shell..."
     (
-      HOME=/root
-      USER=Kore
-      LOGNAME=Kore
+      USER=$(whoami)
+      HOME=$(grep "^$USER:" /etc/passwd | cut -d: -f6)
+      LOGNAME=$(whoami)
+      HOSTNAME=$(cat /etc/hostname)
       SHELL=/bin/sh
-      ENV="/root/.profile"
+      ENV=/root/.profile
 
       RED=$(printf '\033[1;31m')
       RESET=$(printf '\033[0m')
 
       PS1="[${RED}Kore${RESET}@${RED}KoreIso${RESET}:\w] # "
 
-      export HOME USER LOGNAME SHELL ENV PS1
+      export USER HOME LOGNAME HOSTNAME SHELL ENV PS1
 
       cd "$HOME"
+
+      echo "$HOSTNAME" > /proc/sys/kernel/hostname
 
       echo "1 4 1 7" > /proc/sys/kernel/printk
 
