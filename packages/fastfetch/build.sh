@@ -7,9 +7,9 @@ ROOT_DIR=$(realpath "$SCRIPT_DIR/../..")
 ROOTFS="$ROOT_DIR/rootfs"
 BUILD_DIR="$SCRIPT_DIR/build_src"
 
-VERSION="2.65.1"
+VERSION="2.67.1"
 
-echo "=== Configurazione Build di Fastfetch ==="
+echo "=== Configuring Fastfetch Build ==="
 
 ## 1. Download source ##
 cd "$SCRIPT_DIR"

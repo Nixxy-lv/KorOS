@@ -1,0 +1,11 @@
+/home/nixxy/KoreOS/packages/fastfetch/build_src/CMakeFiles/libfastfetch.dir
+/home/nixxy/KoreOS/packages/fastfetch/build_src/CMakeFiles/fastfetch.dir
+/home/nixxy/KoreOS/packages/fastfetch/build_src/CMakeFiles/flashfetch.dir
+/home/nixxy/KoreOS/packages/fastfetch/build_src/CMakeFiles/package.dir
+/home/nixxy/KoreOS/packages/fastfetch/build_src/CMakeFiles/package_source.dir
+/home/nixxy/KoreOS/packages/fastfetch/build_src/CMakeFiles/edit_cache.dir
+/home/nixxy/KoreOS/packages/fastfetch/build_src/CMakeFiles/rebuild_cache.dir
+/home/nixxy/KoreOS/packages/fastfetch/build_src/CMakeFiles/list_install_components.dir
+/home/nixxy/KoreOS/packages/fastfetch/build_src/CMakeFiles/install.dir
+/home/nixxy/KoreOS/packages/fastfetch/build_src/CMakeFiles/install/local.dir
+/home/nixxy/KoreOS/packages/fastfetch/build_src/CMakeFiles/install/strip.dir

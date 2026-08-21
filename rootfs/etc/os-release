@@ -1,6 +1,6 @@
 NAME="KoreOS Linux"
-PRETTY_NAME="KoreOS Linux v0.1.4"
+PRETTY_NAME="KoreOS Linux v0.1.4.1"
 ID=KoreOS
-VERSION="0.1.4"
-VERSION_ID="0.1.4"
+VERSION="0.1.4.1"
+VERSION_ID="0.1.4.1"
 HOME_URL="https://www.github.com/The-KoreOS-Project/KoreOS"
